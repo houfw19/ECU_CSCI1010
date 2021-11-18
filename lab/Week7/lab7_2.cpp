@@ -13,7 +13,7 @@ int main ()
 
     int num ; // only one number is being evaluated, and it will be provided by the user
 
-    cout << "\nEnter a number, no more than 4 digits: " ;
+    cout << "\nEnter a number, no more than 3 digits: " ;
     cin >> num ;
 
     if ( num >= 0 && num < 9 ) // all positive single digits
