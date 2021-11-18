@@ -13,6 +13,8 @@
 
 // int a[] = {1, 2, 3, 4, 5} --gives-- int a[5], the computer will decide the size so its
 
+// int a != int a [10] ; int a = the address of the first value in the array 
+
 #include<iostream>
 
 using namespace std ;
