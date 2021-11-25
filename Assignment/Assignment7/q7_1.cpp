@@ -1,7 +1,7 @@
 // Walid Houf
 // CSCI 1010 Section 001
 // Assignment 7
-// 
+// Arraning Array
 
 #include<iostream>
 
